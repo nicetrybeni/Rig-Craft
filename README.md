@@ -1,5 +1,5 @@
 # Rig Craft
-Rig Craft - Your Ultimate PC Building Companion\
+Rig Craft - Your Ultimate PC Building Companion
 
 - PC Price Comparison: Easily find the best prices for PC components.
 - Build Compatibility Checker: Ensure all your components work seamlessly together.
